@@ -1,0 +1,1 @@
+void game_table(int card_on_table[4][2],int P1_cards[2][11],int team1,int team2);

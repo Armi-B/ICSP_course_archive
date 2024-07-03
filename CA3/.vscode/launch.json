@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kocholo/401-402/ICSP/CA3-810100591",
+      "program": "/Users/kocholo/401-402/ICSP/CA3-810100591/build/Debug/outDebug"
+    }
+  ]
+}

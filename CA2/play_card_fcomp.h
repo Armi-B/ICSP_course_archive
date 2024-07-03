@@ -1,0 +1,1 @@
+int  play_card_fcomp(int starter, int card_on_table[][2], int P1_cards[][11], int P234_cards[][11], int bakhshname, int team1, int team2);

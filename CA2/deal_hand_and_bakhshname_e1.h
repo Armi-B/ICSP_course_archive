@@ -1,0 +1,1 @@
+int deal_hand_and_bakhshname_e1(int card_on_table[][2], int P1_cards[][11], int P234_cards[][11], int set_score1, int set_score2);

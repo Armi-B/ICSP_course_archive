@@ -1,0 +1,1 @@
+int score(int *team1, int *team2, int card_on_table[][2], int bakhshname, int barg_aval);
